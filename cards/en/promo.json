@@ -1,0 +1,233 @@
+[
+  {
+    "id": "pa-001",
+    "name": "Potion",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-002",
+    "name": "X Speed",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-003",
+    "name": "Hand Scope",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-004",
+    "name": "Pokedex",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-005",
+    "name": "Poke Ball",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-006",
+    "name": "Red Card",
+    "type": "Item",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-007",
+    "name": "Professor's Research",
+    "type": "Supporter",
+    "health": null,
+    "stage": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-009",
+    "name": "Pikachu",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-010",
+    "name": "Mewtwo",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-011",
+    "name": "Chansey",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-012",
+    "name": "Meowth",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-013",
+    "name": "Butterfree",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-014",
+    "name": "Lapras ex",
+    "type": "Pokemon",
+    "health": 140,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-015",
+    "name": "Pikachu",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-016",
+    "name": "Clefairy",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-017",
+    "name": "Mankey",
+    "type": "Pokemon",
+    "health": 60,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-018",
+    "name": "Venusaur",
+    "type": "Pokemon",
+    "health": 160,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-019",
+    "name": "Greninja",
+    "type": "Pokemon",
+    "health": 120,
+    "stage": "Stage 2",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-020",
+    "name": "Haunter",
+    "type": "Pokemon",
+    "health": 70,
+    "stage": "Stage 1",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-021",
+    "name": "Onix",
+    "type": "Pokemon",
+    "health": 110,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
+    "id": "pa-022",
+    "name": "Jigglypuff",
+    "type": "Pokemon",
+    "health": 50,
+    "stage": "Basic",
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  }
+]
