@@ -14,4 +14,15 @@ type Card = {
 
 export declare const en: {
   geneticApex: Card[];
+  promo: Card[];
+};
+
+export declare const fr: {
+  geneticApex: Card[];
+  promo: Card[];
+};
+
+export declare const cn: {
+  geneticApex: Card[];
+  promo: Card[];
 };

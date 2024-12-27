@@ -3104,17 +3104,6 @@
     "rarity": "Immersive"
   },
   {
-    "id": "a1-283",
-    "name": "Mew",
-    "type": "Psychic",
-    "health": 60,
-    "stage": "Basic",
-    "craftingCost": null,
-    "set": "promo",
-    "pack": "promo A",
-    "rarity": "Immersive"
-  },
-  {
     "id": "a1-284",
     "name": "Charizard ex",
     "type": "Fire",
