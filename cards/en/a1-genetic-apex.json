@@ -9,7 +9,20 @@
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common",
-    "attacks": [],
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "extras": null,
+        "damage": 70,
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
     "abilities": []
   },
   {

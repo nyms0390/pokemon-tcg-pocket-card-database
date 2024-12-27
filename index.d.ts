@@ -1,3 +1,15 @@
+type Attack = {
+  name: string;
+  cost: string[];
+  extras: string;
+  damage: number;
+};
+
+type Ability = {
+  name: string;
+  description: string;
+};
+
 type Card = {
   id: string;
   name: string;
@@ -8,8 +20,9 @@ type Card = {
   set: string;
   pack: string;
   rarity: string;
-  // attacks: Array;
-  // abilities: Array;
+  retreatCost: string[];
+  attacks: Attack[];
+  abilities: Ability[];
 };
 
 export declare const en: {
