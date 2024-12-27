@@ -1,5 +1,3 @@
-import geneticApex from './a1-genetic-apex.json';
+const geneticApex = require('./a1-genetic-apex.json');
 
-export default {
-  geneticApex,
-};
+module.exports = { geneticApex };
