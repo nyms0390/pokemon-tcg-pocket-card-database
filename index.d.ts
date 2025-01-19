@@ -13,6 +13,7 @@ type Ability = {
 type Card = {
   id: string;
   name: string;
+  element: string;
   type: string;
   subtype: string;
   health: number;

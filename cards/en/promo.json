@@ -2,6 +2,7 @@
   {
     "id": "pa-001",
     "name": "Potion",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -13,6 +14,7 @@
   {
     "id": "pa-002",
     "name": "X Speed",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -24,6 +26,7 @@
   {
     "id": "pa-003",
     "name": "Hand Scope",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -35,6 +38,7 @@
   {
     "id": "pa-004",
     "name": "Pokedex",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -46,6 +50,7 @@
   {
     "id": "pa-005",
     "name": "Poke Ball",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -57,6 +62,7 @@
   {
     "id": "pa-006",
     "name": "Red Card",
+    "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
@@ -68,6 +74,7 @@
   {
     "id": "pa-007",
     "name": "Professor's Research",
+    "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
@@ -79,6 +86,7 @@
   {
     "id": "pa-009",
     "name": "Pikachu",
+    "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
@@ -90,6 +98,7 @@
   {
     "id": "pa-010",
     "name": "Mewtwo",
+    "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
@@ -101,6 +110,7 @@
   {
     "id": "pa-011",
     "name": "Chansey",
+    "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
@@ -112,6 +122,7 @@
   {
     "id": "pa-012",
     "name": "Meowth",
+    "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
@@ -123,6 +134,7 @@
   {
     "id": "pa-013",
     "name": "Butterfree",
+    "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
@@ -134,6 +146,7 @@
   {
     "id": "pa-014",
     "name": "Lapras ex",
+    "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
@@ -145,6 +158,7 @@
   {
     "id": "pa-015",
     "name": "Pikachu",
+    "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
@@ -156,6 +170,7 @@
   {
     "id": "pa-016",
     "name": "Clefairy",
+    "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
@@ -167,6 +182,7 @@
   {
     "id": "pa-017",
     "name": "Mankey",
+    "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
@@ -178,6 +194,7 @@
   {
     "id": "pa-018",
     "name": "Venusaur",
+    "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
@@ -189,6 +206,7 @@
   {
     "id": "pa-019",
     "name": "Greninja",
+    "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
@@ -200,6 +218,7 @@
   {
     "id": "pa-020",
     "name": "Haunter",
+    "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
@@ -211,6 +230,7 @@
   {
     "id": "pa-021",
     "name": "Onix",
+    "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
@@ -222,6 +242,7 @@
   {
     "id": "pa-022",
     "name": "Jigglypuff",
+    "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
@@ -233,6 +254,7 @@
   {
     "id": "a1-283",
     "name": "Mew",
+    "element": "Psychic",
     "type": "Psychic",
     "subtype": "Basic",
     "health": 60,
