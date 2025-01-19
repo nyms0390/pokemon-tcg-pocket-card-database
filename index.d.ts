@@ -14,8 +14,8 @@ type Card = {
   id: string;
   name: string;
   type: string;
+  subtype: string;
   health: number;
-  stage: string;
   craftingCost: number;
   set: string;
   pack: string;
