@@ -6,7 +6,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common",
@@ -31,7 +30,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -43,7 +41,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -55,7 +52,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 190,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare EX"
@@ -67,7 +63,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -79,7 +74,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -91,7 +85,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -103,7 +96,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -115,7 +107,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -127,7 +118,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -139,7 +129,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -151,7 +140,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -163,7 +151,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -175,7 +162,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -187,7 +173,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -199,7 +184,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -211,7 +195,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -223,7 +206,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -235,7 +217,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -247,7 +228,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -259,7 +239,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -271,7 +250,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -283,7 +261,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare EX"
@@ -295,7 +272,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -307,7 +283,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -319,7 +294,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -331,7 +305,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -343,7 +316,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -355,7 +327,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -367,7 +338,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -379,7 +349,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -391,7 +360,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -403,7 +371,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -415,7 +382,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -427,7 +393,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -439,7 +404,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare EX"
@@ -451,7 +415,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -463,7 +426,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -475,7 +437,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -487,7 +448,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -499,7 +459,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 150,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare EX"
@@ -511,7 +470,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -523,7 +481,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -535,7 +492,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -547,7 +503,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -559,7 +514,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -571,7 +525,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare EX"
@@ -583,7 +536,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -595,7 +547,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -607,7 +558,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -619,7 +569,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -631,7 +580,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -643,7 +591,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -655,7 +602,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -667,7 +613,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -679,7 +624,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare EX"
@@ -691,7 +635,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -703,7 +646,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -715,7 +657,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -727,7 +668,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -739,7 +679,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -751,7 +690,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -763,7 +701,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -775,7 +712,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -787,7 +723,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -799,7 +734,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -811,7 +745,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -823,7 +756,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -835,7 +767,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -847,7 +778,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -859,7 +789,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -871,7 +800,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -883,7 +811,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -895,7 +822,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -907,7 +833,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -919,7 +844,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare EX"
@@ -931,7 +855,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 30,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -943,7 +866,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -955,7 +877,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -967,7 +888,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -979,7 +899,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -991,7 +910,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1003,7 +921,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -1015,7 +932,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare EX"
@@ -1027,7 +943,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1039,7 +954,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1051,7 +965,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1063,7 +976,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1075,7 +987,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -1087,7 +998,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1099,7 +1009,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1111,7 +1020,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1123,7 +1031,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1135,7 +1042,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1147,7 +1053,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1159,7 +1064,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare EX"
@@ -1171,7 +1075,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1183,7 +1086,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1195,7 +1097,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1207,7 +1108,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1219,7 +1119,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1231,7 +1130,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1243,7 +1141,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1255,7 +1152,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare EX"
@@ -1267,7 +1163,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1279,7 +1174,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1291,7 +1185,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 30,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1303,7 +1196,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1315,7 +1207,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -1327,7 +1218,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1339,7 +1229,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1351,7 +1240,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1363,7 +1251,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1375,7 +1262,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1387,7 +1273,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1399,7 +1284,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1411,7 +1295,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -1423,7 +1306,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1435,7 +1317,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1447,7 +1328,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1459,7 +1339,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1471,7 +1350,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -1483,7 +1361,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare EX"
@@ -1495,7 +1372,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1507,7 +1383,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1519,7 +1394,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1531,7 +1405,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1543,7 +1416,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -1555,7 +1427,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare EX"
@@ -1567,7 +1438,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1579,7 +1449,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1591,7 +1460,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 110,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -1603,7 +1471,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1615,7 +1482,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 60,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1627,7 +1493,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1639,7 +1504,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1651,7 +1515,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1663,7 +1526,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1675,7 +1537,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1687,7 +1548,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1699,7 +1559,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1711,7 +1570,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1723,7 +1581,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1735,7 +1592,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1747,7 +1603,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -1759,7 +1614,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare EX"
@@ -1771,7 +1625,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1783,7 +1636,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1795,7 +1647,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -1807,7 +1658,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1819,7 +1669,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1831,7 +1680,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1843,7 +1691,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare EX"
@@ -1855,7 +1702,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1867,7 +1713,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -1879,7 +1724,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -1891,7 +1735,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -1903,7 +1746,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -1915,7 +1757,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -1927,7 +1768,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -1939,7 +1779,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -1951,7 +1790,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1963,7 +1801,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1975,7 +1812,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -1987,7 +1823,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -1999,7 +1834,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2011,7 +1845,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2023,7 +1856,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -2035,7 +1867,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2047,7 +1878,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2059,7 +1889,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -2071,7 +1900,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2083,7 +1911,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 40,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2095,7 +1922,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2107,7 +1933,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2119,7 +1944,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2131,7 +1955,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2143,7 +1966,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2155,7 +1977,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2167,7 +1988,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -2179,7 +1999,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2191,7 +2010,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -2203,7 +2021,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2215,7 +2032,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2227,7 +2043,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2239,7 +2054,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2251,7 +2065,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2263,7 +2076,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2275,7 +2087,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 40,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2287,7 +2098,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2299,7 +2109,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2311,7 +2120,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2323,7 +2131,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2335,7 +2142,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2347,7 +2153,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare EX"
@@ -2359,7 +2164,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2371,7 +2175,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -2383,7 +2186,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2395,7 +2197,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2407,7 +2208,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -2419,7 +2219,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2431,7 +2230,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2443,7 +2241,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Rare"
@@ -2455,7 +2252,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -2467,7 +2263,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2479,7 +2274,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2491,7 +2285,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2503,7 +2296,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2515,7 +2307,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2527,7 +2318,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Rare"
@@ -2539,7 +2329,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Rare"
@@ -2551,7 +2340,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2563,7 +2351,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Uncommon"
@@ -2575,7 +2362,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2587,7 +2373,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Common"
@@ -2599,7 +2384,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Common"
@@ -2611,7 +2395,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Common"
@@ -2623,7 +2406,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": 35,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Common"
@@ -2635,7 +2417,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -2647,7 +2428,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2659,7 +2439,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -2671,7 +2450,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2683,7 +2461,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Uncommon"
@@ -2695,7 +2472,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2707,7 +2483,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Uncommon"
@@ -2719,7 +2494,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Uncommon"
@@ -2731,7 +2505,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2743,7 +2516,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2755,7 +2527,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2767,7 +2538,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2779,7 +2549,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2791,7 +2560,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2803,7 +2571,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 150,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2815,7 +2582,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2827,7 +2593,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2839,7 +2604,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2851,7 +2615,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2863,7 +2626,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2875,7 +2637,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2887,7 +2648,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2899,7 +2659,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2911,7 +2670,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 40,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2923,7 +2681,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2935,7 +2692,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2947,7 +2703,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2959,7 +2714,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art"
@@ -2971,7 +2725,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -2983,7 +2736,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -2995,7 +2747,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art"
@@ -3007,7 +2758,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 400,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art"
@@ -3019,7 +2769,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 190,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3031,7 +2780,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3043,7 +2791,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3055,7 +2802,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 150,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3067,7 +2813,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3079,7 +2824,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3091,7 +2835,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3103,7 +2846,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3115,7 +2857,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3127,7 +2868,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3139,7 +2879,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3151,7 +2890,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3163,7 +2901,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3175,7 +2912,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3187,7 +2923,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3199,7 +2934,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3211,7 +2945,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3223,7 +2956,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3235,7 +2967,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3247,7 +2978,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3259,7 +2989,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3271,7 +3000,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3283,7 +3011,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3295,7 +3022,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3307,7 +3033,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3319,7 +3044,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3331,7 +3055,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Full Art EX/Support"
@@ -3343,7 +3066,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Full Art EX/Support"
@@ -3355,7 +3077,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "craftingCost": 1250,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Full Art EX/Support"
@@ -3367,7 +3088,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 1500,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "rarity": "Immersive"
@@ -3379,7 +3099,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 1500,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "rarity": "Immersive"
@@ -3391,7 +3110,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 1500,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "rarity": "Immersive"
@@ -3403,7 +3121,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 180,
-    "craftingCost": 2500,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Gold Crown"
@@ -3415,7 +3132,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": 2500,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Gold Crown"
@@ -3427,7 +3143,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "craftingCost": 2500,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "rarity": "Gold Crown"
