@@ -13,7 +13,7 @@
       {
         "name": "Vine Whip",
         "effects": null,
-        "damage": 70,
+        "damage": "40",
         "cost": [
           "Grass",
           "Colorless"
@@ -21,6 +21,7 @@
       }
     ],
     "retreatCost": 1,
+    "weakness": "Fire",
     "abilities": []
   },
   {
@@ -32,7 +33,22 @@
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-003",
@@ -43,7 +59,23 @@
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "effects": "Heal 30 damage from this Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-004",
@@ -54,7 +86,33 @@
     "health": 190,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare EX"
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Giant Bloom",
+        "effects": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-005",
@@ -65,7 +123,20 @@
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Find a Friend",
+        "effects": "Put 1 random Grass Pokémon from your deck into your hand.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-006",
@@ -76,7 +147,21 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Bug Bite",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-007",
@@ -87,7 +172,27 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Gust",
+        "effects": null,
+        "damage": 60,
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Powder Heal",
+        "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+      }
+    ]
   },
   {
     "id": "a1-008",
