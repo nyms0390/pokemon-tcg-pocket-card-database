@@ -4534,7 +4534,20 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Crunch",
+        "effects": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "20",
+        "cost": [
+          "Steel"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-179",
@@ -4545,7 +4558,20 @@
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Pierce",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Steel"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-180",
@@ -4556,7 +4582,21 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Metal Claw",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Steel",
+          "Steel"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-181",
@@ -4567,7 +4607,20 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Amass",
+        "effects": "Take a Steel Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Steel"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-182",
@@ -4578,7 +4631,28 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Heavy Impact",
+        "effects": null,
+        "damage": "120",
+        "cost": [
+          "Steel",
+          "Steel",
+          "Steel",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Hard Coat",
+        "effect": "This Pokémon takes -20 damage from attacks."
+      }
+    ]
   },
   {
     "id": "a1-183",
@@ -4589,7 +4663,21 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Ram",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-184",
@@ -4600,7 +4688,22 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Tail Smack",
+        "effects": null,
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-185",
@@ -4611,7 +4714,23 @@
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Draco Meteor",
+        "effects": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-186",
@@ -4622,7 +4741,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Gust",
+        "effects": null,
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-187",
@@ -4633,7 +4765,20 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Gust",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-188",
@@ -4644,7 +4789,26 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Wing attack",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Drive off",
+        "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the bench (Your opponent chooses the new Active Pokémon.)"
+      }
+    ]
   },
   {
     "id": "a1-189",
@@ -4655,7 +4819,20 @@
     "health": 40,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-190",
@@ -4666,7 +4843,20 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Bite",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-191",
@@ -4677,7 +4867,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Peck",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-192",
@@ -4688,7 +4891,21 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Drill Run",
+        "effects": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-193",
@@ -4699,7 +4916,21 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Pound",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-194",
@@ -4710,7 +4941,21 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Hyper Voice",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-195",
@@ -4721,7 +4966,22 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Rare EX"
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Sleepy Song",
+        "effects": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-196",
@@ -4732,7 +4992,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Pay Day",
+        "effects": "Draw a card.",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-197",
@@ -4743,7 +5016,21 @@
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Shadow Claw",
+        "effects": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+        "damage": "40",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-198",
@@ -4754,7 +5041,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Leek Slap",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-199",
@@ -4765,7 +5065,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Peck",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-200",
@@ -4776,7 +5089,20 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Drill Peck",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-201",
@@ -4787,7 +5113,22 @@
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Continuous Lick",
+        "effects": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+        "damage": "60x",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-202",
@@ -4798,7 +5139,22 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-203",
@@ -4809,7 +5165,20 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Dizzy Punch",
+        "effects": "Flip 2 coin. This attack does 30 damage for each heads.",
+        "damage": "30x",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-204",
@@ -4820,7 +5189,21 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Horn Attack",
+        "effects": null,
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-205",
@@ -4831,7 +5214,20 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Copy Anything",
+        "effects": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-206",
@@ -4842,7 +5238,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-207",
@@ -4853,7 +5262,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-208",
@@ -4864,7 +5286,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-209",
@@ -4875,7 +5310,25 @@
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Sharpen",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Data Scan",
+        "effect": "Once during your turn, you may look at the top card of your deck."
+      }
+    ]
   },
   {
     "id": "a1-210",
@@ -4886,7 +5339,21 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Primal Wingbeat",
+        "effects": "Flip a coin. If heads, your opponent suffles their Active Pokémon into their deck.",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-211",
@@ -4897,7 +5364,23 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-212",
@@ -4908,7 +5391,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tail Smack",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-213",
@@ -4919,7 +5415,22 @@
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Do the Wave",
+        "effects": "This attack does 30 damage for each of your Benched Pokémon.",
+        "damage": "30+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-214",
@@ -4930,7 +5441,21 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-215",
@@ -4941,7 +5466,22 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "effects": null,
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-216",
@@ -4952,7 +5492,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-217",
@@ -4963,7 +5507,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-218",
@@ -4974,7 +5522,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Common"
+    "rarity": "Common",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-219",
@@ -4985,7 +5537,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-220",
@@ -4996,7 +5552,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-221",
@@ -5007,7 +5567,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-222",
@@ -5018,7 +5582,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-223",
@@ -5029,7 +5597,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-224",
@@ -5040,7 +5612,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-225",
@@ -5051,7 +5627,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-226",
@@ -5062,7 +5642,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-227",
@@ -5073,7 +5657,21 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-228",
@@ -5084,7 +5682,21 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Drool",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-229",
@@ -5095,7 +5707,21 @@
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Double Horn",
+        "effects": "Flip 2 coin. This attack does 50 damage for each heads.",
+        "damage": "50x",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-230",
@@ -5106,7 +5732,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Ember",
+        "effects": "Discard a Fire Energy from this Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-231",
@@ -5117,7 +5756,20 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Fire Mane",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-232",
@@ -5128,7 +5780,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-233",
@@ -5139,7 +5804,23 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Hyper Beam",
+        "effects": "Discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-234",
@@ -5150,7 +5831,20 @@
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "effects": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-235",
@@ -5161,7 +5855,21 @@
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-236",
@@ -5172,7 +5880,22 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effects": "This attack does 30 damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "60+",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "a1-237",
@@ -5183,7 +5906,21 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "a1-238",
@@ -5194,7 +5931,20 @@
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Mud-Slap",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
   },
   {
     "id": "a1-239",
@@ -5205,7 +5955,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Growl",
+        "effects": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
   },
   {
     "id": "a1-240",
@@ -5216,7 +5979,22 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Lovestrike",
+        "effects": "This attack does 50 more damage for each of your Benched Nidoking.",
+        "damage": "80+",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-241",
@@ -5227,7 +6005,22 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Poison Horn",
+        "effects": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "90",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-242",
@@ -5238,7 +6031,20 @@
     "health": 40,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Wing attack",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-243",
@@ -5249,7 +6055,25 @@
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Gas Leak",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned."
+      }
+    ]
   },
   {
     "id": "a1-244",
@@ -5260,7 +6084,23 @@
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Draco Meteor",
+        "effects": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-245",
@@ -5271,7 +6111,26 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Wing attack",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Drive off",
+        "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the bench (Your opponent chooses the new Active Pokémon.)"
+      }
+    ]
   },
   {
     "id": "a1-246",
@@ -5282,7 +6141,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Pay Day",
+        "effects": "Draw a card.",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-247",
@@ -5293,7 +6165,20 @@
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Copy Anything",
+        "effects": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-248",
@@ -5304,7 +6189,20 @@
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-249",
@@ -5315,7 +6213,25 @@
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Sharpen",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Data Scan",
+        "effect": "Once during your turn, you may look at the top card of your deck."
+      }
+    ]
   },
   {
     "id": "a1-250",
@@ -5326,7 +6242,23 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art"
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-251",
@@ -5337,7 +6269,33 @@
     "health": 190,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Giant Bloom",
+        "effects": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-252",
@@ -5348,7 +6306,20 @@
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Tropical Swing",
+        "effects": "Flip a coin. If heads, this attack does 40 more damage.",
+        "damage": "40+",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "a1-253",
@@ -5359,7 +6330,33 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Slash",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Crimson Storm",
+        "effects": "Discard 2 Fire Energy from this Pokémon.",
+        "damage": "220",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-254",
@@ -5370,7 +6367,22 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Inferno Onrush",
+        "effects": "This Pokémon does 20 damage to itself.",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-255",
@@ -5381,7 +6393,30 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Inferno Dance",
+        "effects": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Heat Blast",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-256",
@@ -5392,7 +6427,31 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Hydro Bazooka",
+        "effects": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
+        "damage": "100+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-257",
@@ -5403,7 +6462,21 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "effects": null,
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-258",
@@ -5414,7 +6487,31 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Blizzard",
+        "effects": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-259",
@@ -5425,7 +6522,21 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Circle Circuit",
+        "effects": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
+        "damage": "30x",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-260",
@@ -5436,7 +6547,30 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Peck",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundering Hurricane",
+        "effects": "Flip 4 coins. This attack does 50 damage for each heads.",
+        "damage": "50x",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-261",
@@ -5447,7 +6581,27 @@
     "health": 170,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "effects": null,
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Shadowy Spellbind",
+        "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      }
+    ]
   },
   {
     "id": "a1-262",
@@ -5458,7 +6612,32 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "effects": null,
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Psydrive",
+        "effects": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "a1-263",
@@ -5469,7 +6648,22 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "effects": null,
+        "damage": "120",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psychic",
+    "abilities": []
   },
   {
     "id": "a1-264",
@@ -5480,7 +6674,21 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Bonemerang",
+        "effects": "Flip 2 coin. This attack does 80 damage for each heads.",
+        "damage": "80x",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
   },
   {
     "id": "a1-265",
@@ -5491,7 +6699,22 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Sleepy Song",
+        "effects": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-266",
@@ -5502,7 +6725,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-267",
@@ -5513,7 +6740,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-268",
@@ -5524,7 +6755,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-269",
@@ -5535,7 +6770,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-270",
@@ -5546,7 +6785,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-271",
@@ -5557,7 +6800,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-272",
@@ -5568,7 +6815,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-273",
@@ -5579,7 +6830,11 @@
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
     "id": "a1-274",
@@ -5590,7 +6845,30 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Inferno Dance",
+        "effects": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Heat Blast",
+        "effects": null,
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-275",
@@ -5601,7 +6879,31 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "effects": null,
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Blizzard",
+        "effects": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-276",
@@ -5612,7 +6914,30 @@
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Peck",
+        "effects": null,
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundering Hurricane",
+        "effects": "Flip 4 coins. This attack does 50 damage for each heads.",
+        "damage": "50x",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "a1-277",
@@ -5623,7 +6948,27 @@
     "health": 170,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "effects": null,
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Shadowy Spellbind",
+        "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      }
+    ]
   },
   {
     "id": "a1-278",
@@ -5634,7 +6979,22 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "effects": null,
+        "damage": "120",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psychic",
+    "abilities": []
   },
   {
     "id": "a1-279",
@@ -5645,7 +7005,22 @@
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Sleepy Song",
+        "effects": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-280",
@@ -5656,7 +7031,33 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
-    "rarity": "Immersive"
+    "rarity": "Immersive",
+    "attacks": [
+      {
+        "name": "Slash",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Crimson Storm",
+        "effects": "Discard 2 Fire Energy from this Pokémon.",
+        "damage": "220",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-281",
@@ -5667,7 +7068,21 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
-    "rarity": "Immersive"
+    "rarity": "Immersive",
+    "attacks": [
+      {
+        "name": "Circle Circuit",
+        "effects": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
+        "damage": "30x",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-282",
@@ -5678,7 +7093,32 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
-    "rarity": "Immersive"
+    "rarity": "Immersive",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "effects": null,
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Psydrive",
+        "effects": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "a1-284",
@@ -5689,7 +7129,33 @@
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Gold Crown"
+    "rarity": "Gold Crown",
+    "attacks": [
+      {
+        "name": "Slash",
+        "effects": null,
+        "damage": "60",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Crimson Storm",
+        "effects": "Discard 2 Fire Energy from this Pokémon.",
+        "damage": "220",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
   },
   {
     "id": "a1-285",
@@ -5700,7 +7166,21 @@
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Gold Crown"
+    "rarity": "Gold Crown",
+    "attacks": [
+      {
+        "name": "Circle Circuit",
+        "effects": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
+        "damage": "30x",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "a1-286",
@@ -5711,6 +7191,31 @@
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": null,
-    "rarity": "Gold Crown"
+    "rarity": "Gold Crown",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "effects": null,
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Psydrive",
+        "effects": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   }
 ]
