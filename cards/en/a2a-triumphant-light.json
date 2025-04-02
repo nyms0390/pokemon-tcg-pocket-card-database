@@ -6,7 +6,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Single-Horn Throw",
@@ -30,7 +30,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ram",
@@ -52,7 +52,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Gust",
@@ -75,7 +75,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Bug Bite",
@@ -97,7 +97,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Reckless Charge",
@@ -121,7 +121,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Leafage",
@@ -143,7 +143,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Worry Seed",
@@ -165,7 +165,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Leech Seed",
@@ -188,7 +188,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Vine Whip",
@@ -215,7 +215,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -244,7 +244,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Flare",
@@ -266,7 +266,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Corner",
@@ -289,7 +289,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ragin' Mad Strike ",
@@ -317,7 +317,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Water Gun",
@@ -339,7 +339,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Waterfall",
@@ -362,7 +362,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Mud-Slap",
@@ -385,7 +385,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Thrash",
@@ -410,7 +410,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Icicle",
@@ -432,7 +432,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Blizzard",
@@ -455,7 +455,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Corkscrew Punch",
@@ -478,7 +478,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Mega Punch",
@@ -507,7 +507,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -536,7 +536,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Zone Smash ",
@@ -560,7 +560,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Water Pulse",
@@ -583,7 +583,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Spark",
@@ -605,7 +605,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Spark",
@@ -633,7 +633,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Zap Kick",
@@ -655,7 +655,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Flash",
@@ -677,7 +677,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Smack",
@@ -700,7 +700,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Moonblast",
@@ -724,7 +724,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Astonish",
@@ -746,7 +746,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Mumble",
@@ -769,7 +769,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Hypnoblast",
@@ -792,7 +792,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Hidden Power",
@@ -819,7 +819,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Dash Attack",
@@ -846,7 +846,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -868,7 +868,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Rollout",
@@ -890,7 +890,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Rolling Spin",
@@ -914,7 +914,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Corkscrew Punch",
@@ -937,7 +937,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Speed Attack",
@@ -961,7 +961,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Land Crush",
@@ -991,7 +991,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Tackle",
@@ -1013,7 +1013,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Kick",
@@ -1035,7 +1035,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Kick Shot",
@@ -1057,7 +1057,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Tackle",
@@ -1079,7 +1079,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Sharp Scythe",
@@ -1101,7 +1101,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -1133,7 +1133,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Bite",
@@ -1155,7 +1155,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Bite",
@@ -1177,7 +1177,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 110,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Darkness Fang",
@@ -1204,7 +1204,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Beat",
@@ -1226,7 +1226,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Toxic",
@@ -1248,7 +1248,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Tackle",
@@ -1270,7 +1270,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Rolling Attack",
@@ -1293,7 +1293,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Power Beam",
@@ -1322,7 +1322,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Iron Beam Breaker",
@@ -1344,7 +1344,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -1368,7 +1368,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ram",
@@ -1390,7 +1390,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Psychic",
@@ -1414,7 +1414,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Time Mash",
@@ -1438,7 +1438,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Crisis Dive",
@@ -1462,7 +1462,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Tail Whap",
@@ -1485,7 +1485,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Collapse",
@@ -1510,7 +1510,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Peck",
@@ -1532,7 +1532,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Silent Wing",
@@ -1555,7 +1555,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Glide",
@@ -1577,7 +1577,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Wing Attack",
@@ -1599,7 +1599,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Brave Bird",
@@ -1623,7 +1623,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Flap",
@@ -1651,7 +1651,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Power Blast",
@@ -1676,7 +1676,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -1705,7 +1705,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1718,7 +1718,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1731,7 +1731,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1744,7 +1744,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1757,7 +1757,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Corner",
@@ -1780,7 +1780,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Water Gun",
@@ -1802,7 +1802,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Hidden Power",
@@ -1829,7 +1829,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -1851,7 +1851,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Tackle",
@@ -1873,7 +1873,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Flap",
@@ -1901,7 +1901,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -1930,7 +1930,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -1959,7 +1959,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -1991,7 +1991,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2015,7 +2015,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2044,7 +2044,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2057,7 +2057,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2070,7 +2070,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2083,7 +2083,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2096,7 +2096,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -2125,7 +2125,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -2154,7 +2154,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -2186,7 +2186,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2210,7 +2210,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2239,7 +2239,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Triumphant light (A2a)",
     "attacks": [
       {
         "name": "Ultimate Force",
