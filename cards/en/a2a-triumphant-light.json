@@ -7,6 +7,7 @@
     "subtype": "Basic",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Single-Horn Throw",
@@ -31,10 +32,10 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ram",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -53,10 +54,10 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Gust",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -76,10 +77,10 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Bug Bite",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -98,6 +99,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Reckless Charge",
@@ -122,10 +124,10 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Leafage",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -144,6 +146,7 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Worry Seed",
@@ -166,6 +169,7 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Leech Seed",
@@ -189,10 +193,10 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Vine Whip",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -216,10 +220,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Solar Beam",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Grass",
@@ -245,10 +249,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Flare",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -267,6 +271,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Corner",
@@ -290,6 +295,7 @@
     "subtype": "Basic",
     "health": 110,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ragin' Mad Strike ",
@@ -318,10 +324,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -340,10 +346,10 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Waterfall",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Water",
@@ -363,10 +369,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Mud-Slap",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Water",
@@ -386,6 +392,7 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Thrash",
@@ -411,10 +418,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Icicle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -433,6 +440,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Blizzard",
@@ -456,10 +464,10 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Corkscrew Punch",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Water",
@@ -479,10 +487,10 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Mega Punch",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Water",
@@ -508,10 +516,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Freezing Wind",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Water",
@@ -537,6 +545,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Zone Smash ",
@@ -561,6 +570,7 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Water Pulse",
@@ -584,6 +594,7 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Spark",
@@ -606,6 +617,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Spark",
@@ -634,10 +646,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Zap Kick",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Lightning"
@@ -656,6 +668,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Flash",
@@ -678,10 +691,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Smack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic",
@@ -701,6 +714,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Moonblast",
@@ -725,6 +739,7 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Astonish",
@@ -747,10 +762,10 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Mumble",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Psychic",
@@ -770,6 +785,7 @@
     "subtype": "Stage 2",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Hypnoblast",
@@ -793,10 +809,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Hidden Power",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -820,6 +836,7 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Dash Attack",
@@ -847,6 +864,7 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -869,10 +887,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Rollout",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -891,6 +909,7 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Rolling Spin",
@@ -915,10 +934,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Corkscrew Punch",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fighting",
@@ -938,10 +957,10 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Speed Attack",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Fighting",
@@ -962,10 +981,10 @@
     "subtype": "Stage 2",
     "health": 160,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Land Crush",
-        "effect": "",
         "damage": "130",
         "cost": [
           "Fighting",
@@ -992,10 +1011,10 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -1014,10 +1033,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Kick",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -1036,6 +1055,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Kick Shot",
@@ -1058,10 +1078,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -1080,10 +1100,10 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Sharp Scythe",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fighting"
@@ -1102,6 +1122,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -1113,7 +1134,6 @@
       },
       {
         "name": "Dragon Claw",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Fighting",
@@ -1134,10 +1154,10 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Bite",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -1156,10 +1176,10 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Bite",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Darkness"
@@ -1178,10 +1198,10 @@
     "subtype": "Stage 2",
     "health": 110,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Darkness Fang",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Darkness"
@@ -1205,10 +1225,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Beat",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -1227,6 +1247,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Toxic",
@@ -1249,10 +1270,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Metal"
@@ -1271,10 +1292,10 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Rolling Attack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Metal",
@@ -1294,10 +1315,10 @@
     "subtype": "Stage 2",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Power Beam",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Metal",
@@ -1323,6 +1344,7 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Iron Beam Breaker",
@@ -1345,6 +1367,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -1369,10 +1392,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ram",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -1391,6 +1414,7 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Psychic",
@@ -1415,6 +1439,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Time Mash",
@@ -1439,6 +1464,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Crisis Dive",
@@ -1463,10 +1489,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Tail Whap",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1486,6 +1512,7 @@
     "subtype": "Basic",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Collapse",
@@ -1511,10 +1538,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Peck",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1533,6 +1560,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Silent Wing",
@@ -1556,10 +1584,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Glide",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1578,10 +1606,10 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Wing Attack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless"
@@ -1600,6 +1628,7 @@
     "subtype": "Stage 2",
     "health": 150,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Brave Bird",
@@ -1624,10 +1653,10 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Flap",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1652,6 +1681,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Power Blast",
@@ -1677,6 +1707,7 @@
     "subtype": "Basic",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -1706,6 +1737,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1719,6 +1751,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1732,6 +1765,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1745,6 +1779,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1758,6 +1793,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Corner",
@@ -1781,10 +1817,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1803,10 +1839,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Hidden Power",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1830,6 +1866,7 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -1852,10 +1889,10 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Metal"
@@ -1874,10 +1911,10 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Flap",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1902,10 +1939,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Solar Beam",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Grass",
@@ -1931,10 +1968,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Freezing Wind",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Water",
@@ -1960,6 +1997,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -1971,7 +2009,6 @@
       },
       {
         "name": "Dragon Claw",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Fighting",
@@ -1992,6 +2029,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2016,6 +2054,7 @@
     "subtype": "Basic",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2045,6 +2084,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2058,6 +2098,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2071,6 +2112,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2084,6 +2126,7 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -2097,10 +2140,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Solar Beam",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Grass",
@@ -2126,10 +2169,10 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Freezing Wind",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Water",
@@ -2155,6 +2198,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -2166,7 +2210,6 @@
       },
       {
         "name": "Dragon Claw",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Fighting",
@@ -2187,6 +2230,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2211,6 +2255,7 @@
     "subtype": "Basic",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2240,6 +2285,7 @@
     "subtype": "Basic",
     "health": 140,
     "set": "Triumphant light (A2a)",
+    "pack": "Triumphant light",
     "attacks": [
       {
         "name": "Ultimate Force",
