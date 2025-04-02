@@ -84,9 +84,9 @@
     "rarity": "Common",
     "attacks": [
       {
-        "name": "Guillotine Rush 50+",
+        "name": "Guillotine Rush",
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
-        "damage": "",
+        "damage": "50+",
         "cost": [
           "Grass",
           "Colorless",
@@ -158,9 +158,9 @@
     "rarity": "Rare",
     "attacks": [
       {
-        "name": "Fighting Claws 60+",
+        "name": "Fighting Claws",
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
-        "damage": "",
+        "damage": "60+",
         "cost": [
           "Grass",
           "Grass"
@@ -587,9 +587,9 @@
     "rarity": "Uncommon",
     "attacks": [
       {
-        "name": "Tumbling Attack 50+",
+        "name": "Tumbling Attack",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": "",
+        "damage": "50+",
         "cost": [
           "Lightning",
           "Lightning"
@@ -933,9 +933,9 @@
     "rarity": "Common",
     "attacks": [
       {
-        "name": "Pummel 30+",
+        "name": "Pummel",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": "",
+        "damage": "30+",
         "cost": [
           "Fighting",
           "Fighting"
@@ -1180,9 +1180,9 @@
     "rarity": "Rare EX",
     "attacks": [
       {
-        "name": "Venoshock 60+",
+        "name": "Venoshock",
         "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
-        "damage": "",
+        "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
@@ -1304,9 +1304,9 @@
     "rarity": "Uncommon",
     "attacks": [
       {
-        "name": "Tenacious Hammer 30+",
+        "name": "Tenacious Hammer",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": "",
+        "damage": "30+",
         "cost": [
           "Metal",
           "Metal"
@@ -1329,9 +1329,9 @@
     "rarity": "Rare EX",
     "attacks": [
       {
-        "name": "Terrific Thumping 80+",
+        "name": "Terrific Thumping",
         "effect": "Flip a coin. If heads, this attack does 80 more damage.",
-        "damage": "",
+        "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
@@ -1759,9 +1759,9 @@
     "rarity": "Full Art",
     "attacks": [
       {
-        "name": "Fighting Claws 60+",
+        "name": "Fighting Claws",
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
-        "damage": "",
+        "damage": "60+",
         "cost": [
           "Grass",
           "Grass"
@@ -2089,9 +2089,9 @@
     "rarity": "Full Art EX/Support",
     "attacks": [
       {
-        "name": "Venoshock 60+",
+        "name": "Venoshock",
         "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
-        "damage": "",
+        "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2114,9 +2114,9 @@
     "rarity": "Full Art EX/Support",
     "attacks": [
       {
-        "name": "Terrific Thumping 80+",
+        "name": "Terrific Thumping",
         "effect": "Flip a coin. If heads, this attack does 80 more damage.",
-        "damage": "",
+        "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
@@ -2253,9 +2253,9 @@
     "rarity": "Full Art EX/Support",
     "attacks": [
       {
-        "name": "Venoshock 60+",
+        "name": "Venoshock",
         "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
-        "damage": "",
+        "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2278,9 +2278,9 @@
     "rarity": "Full Art EX/Support",
     "attacks": [
       {
-        "name": "Terrific Thumping 80+",
+        "name": "Terrific Thumping",
         "effect": "Flip a coin. If heads, this attack does 80 more damage.",
-        "damage": "",
+        "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
