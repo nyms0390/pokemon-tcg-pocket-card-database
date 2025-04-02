@@ -1,0 +1,2724 @@
+[
+  {
+    "id": "a2b_001",
+    "name": "Weedle",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Multiply",
+        "effect": "Put 1 random Weedle from your deck onto your Bench.",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_002",
+    "name": "Kakuna",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "String Shot",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_003",
+    "name": "Beedrill ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Crushing Spear",
+        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_004",
+    "name": "Pinsir",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Guillotine Rush",
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+        "damage": "50+",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_005",
+    "name": "Sprigatito",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Cry for Help",
+        "effect": "Put 1 random [G] Pokémon from your deck into your hand.",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_006",
+    "name": "Floragato",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_007",
+    "name": "Meowscarada",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Fighting Claws",
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_008",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_009",
+    "name": "Charmeleon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_010",
+    "name": "Charizard ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Stoke",
+        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Steam Artillery",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_011",
+    "name": "Magmar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Flare",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_012",
+    "name": "Magmortar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Smoke Bomb",
+        "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_013",
+    "name": "Paldean Tauros",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Blaze Tackle",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "80",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_014",
+    "name": "Tentacool",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Rain Splash",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_015",
+    "name": "Tentacruel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_016",
+    "name": "Buizel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_017",
+    "name": "Floatzel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Water Arrow",
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon.",
+        "damage": "",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_018",
+    "name": "Wiglett",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Spring Out",
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": "",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_019",
+    "name": "Wugtrio ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Pop Out Throughout",
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_020",
+    "name": "Dondozo",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Ocean Cyclone",
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_021",
+    "name": "Tatsugiri",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Rain Splash",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Retreat Directive",
+        "effect": "Your Active Dondozo has no Retreat Cost."
+      }
+    ]
+  },
+  {
+    "id": "a2b_022",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "effect": "Discard all Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_023",
+    "name": "Voltorb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Lightning Ball",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_024",
+    "name": "Electrode",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Tumbling Attack",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "50+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_025",
+    "name": "Pachirisu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Plasma",
+        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_026",
+    "name": "Pawmi",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_027",
+    "name": "Pawmo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "40",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_028",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Electric Punch",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Counterattack",
+        "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "a2b_029",
+    "name": "Abra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_030",
+    "name": "Kadabra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_031",
+    "name": "Alakazam",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Psychic Suppression",
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_032",
+    "name": "Mr. Mime",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Juggling",
+        "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
+        "damage": "20x",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_033",
+    "name": "Drifloon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_034",
+    "name": "Drifblim",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Gust",
+        "damage": "40",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_035",
+    "name": "Giratina ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Chaotic Impact",
+        "effect": "This Pokémon also does 20 damage to itself.",
+        "damage": "130",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Broken-Space Bellow",
+        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+      }
+    ]
+  },
+  {
+    "id": "a2b_036",
+    "name": "Gimmighoul",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Chest-ouflage",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "a2b_037",
+    "name": "Machop",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_038",
+    "name": "Machoke",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Pummel",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "30+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_039",
+    "name": "Machamp",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Power Press",
+        "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage.",
+        "damage": "70+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_040",
+    "name": "Hitmonlee",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Kick",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_041",
+    "name": "Hitmonchan",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Magnum Punch",
+        "damage": "90",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_042",
+    "name": "Riolu",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_043",
+    "name": "Lucario ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_044",
+    "name": "Flamigo",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Double Kick 50x",
+        "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
+        "damage": "",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_045",
+    "name": "Ekans",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_046",
+    "name": "Arbok",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Venomous Fang",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_047",
+    "name": "Paldean Wooper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Poison Jab",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "10",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_048",
+    "name": "Paldean Clodsire ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_049",
+    "name": "Spiritomb",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
+  },
+  {
+    "id": "a2b_050",
+    "name": "Shroodle",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_051",
+    "name": "Grafaiai",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Poison Coating",
+        "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+      }
+    ]
+  },
+  {
+    "id": "a2b_052",
+    "name": "Tinkatink",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_053",
+    "name": "Tinkatuff",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Tenacious Hammer",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "30+",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_054",
+    "name": "Tinkaton ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Terrific Thumping",
+        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_055",
+    "name": "Varoom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_056",
+    "name": "Revavroom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Spinning Drift",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_057",
+    "name": "Gholdengo",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Scintillating Surfing 50x",
+        "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "damage": "",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_058",
+    "name": "Rattata",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_059",
+    "name": "Raticate",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_060",
+    "name": "Jigglypuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_061",
+    "name": "Wigglytuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare",
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Comforting Song",
+        "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "a2b_062",
+    "name": "Lickitung",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_063",
+    "name": "Lickilicky",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_064",
+    "name": "Bidoof",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_065",
+    "name": "Bibarel ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Rare EX",
+    "attacks": [
+      {
+        "name": "Carefree Press",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_066",
+    "name": "Buneary",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_067",
+    "name": "Lopunny",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Common",
+    "attacks": [
+      {
+        "name": "Hopping Shot",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_068",
+    "name": "Cyclizar",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [
+      {
+        "name": "Overacceleration",
+        "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_069",
+    "name": "Iono",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_070",
+    "name": "Pokémon Center Lady",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_071",
+    "name": "Red",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Uncommon",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_072",
+    "name": "Team Rocket Grunt",
+    "rarity": "Uncommon",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_073",
+    "name": "Meowscarada",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Fighting Claws",
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_074",
+    "name": "Buizel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_075",
+    "name": "Tatsugiri",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Rain Splash",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Retreat Directive",
+        "effect": "Your Active Dondozo has no Retreat Cost."
+      }
+    ]
+  },
+  {
+    "id": "a2b_076",
+    "name": "Grafaiai",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Poison Coating",
+        "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+      }
+    ]
+  },
+  {
+    "id": "a2b_077",
+    "name": "Gholdengo",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Scintillating Surfing 50x",
+        "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "damage": "",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_078",
+    "name": "Wigglytuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art",
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Comforting Song",
+        "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "a2b_079",
+    "name": "Beedrill ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Crushing Spear",
+        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_080",
+    "name": "Charizard ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Stoke",
+        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Steam Artillery",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_081",
+    "name": "Wugtrio ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Pop Out Throughout",
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_082",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "effect": "Discard all Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_083",
+    "name": "Giratina ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Chaotic Impact",
+        "effect": "This Pokémon also does 20 damage to itself.",
+        "damage": "130",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Broken-Space Bellow",
+        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+      }
+    ]
+  },
+  {
+    "id": "a2b_084",
+    "name": "Lucario ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_085",
+    "name": "Paldean Clodsire ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_086",
+    "name": "Tinkaton ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Terrific Thumping",
+        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_087",
+    "name": "Bibarel ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Carefree Press",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_088",
+    "name": "Iono",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_089",
+    "name": "Pokémon Center Lady",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_090",
+    "name": "Red",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_091",
+    "name": "Team Rocket Grunt",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "a2b_092",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "effect": "Discard all Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_093",
+    "name": "Paldean Clodsire ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_094",
+    "name": "Tinkaton ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Terrific Thumping",
+        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_095",
+    "name": "Bibarel ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Full Art EX/Support",
+    "attacks": [
+      {
+        "name": "Carefree Press",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_096",
+    "name": "Giratina ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Immersive",
+    "attacks": [
+      {
+        "name": "Chaotic Impact",
+        "effect": "This Pokémon also does 20 damage to itself.",
+        "damage": "130",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Broken-Space Bellow",
+        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+      }
+    ]
+  },
+  {
+    "id": "a2b_097",
+    "name": "Weedle",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Multiply",
+        "effect": "Put 1 random Weedle from your deck onto your Bench.",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_098",
+    "name": "Kakuna",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "String Shot",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_099",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_100",
+    "name": "Charmeleon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_101",
+    "name": "Wiglett",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Spring Out",
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": "",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_102",
+    "name": "Dondozo",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Ocean Cyclone",
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_103",
+    "name": "Pachirisu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Plasma",
+        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "a2b_104",
+    "name": "Riolu",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_105",
+    "name": "Varoom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_106",
+    "name": "Revavroom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "One shiny star",
+    "attacks": [
+      {
+        "name": "Spinning Drift",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_107",
+    "name": "Beedrill ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Two shiny star",
+    "attacks": [
+      {
+        "name": "Crushing Spear",
+        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "a2b_108",
+    "name": "Charizard ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Two shiny star",
+    "attacks": [
+      {
+        "name": "Stoke",
+        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Steam Artillery",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "a2b_109",
+    "name": "Wugtrio ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Two shiny star",
+    "attacks": [
+      {
+        "name": "Pop Out Throughout",
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "a2b_110",
+    "name": "Lucario ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Two shiny star",
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "a2b_111",
+    "name": "Poké Ball",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Shining Revelry (A2b)",
+    "pack": "Shining Revelry",
+    "rarity": "Gold Crown",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  }
+]
