@@ -26,7 +26,7 @@
     "name": "Gloom",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -48,7 +48,7 @@
     "name": "Bellossom",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -94,7 +94,7 @@
     "name": "Tangrowth",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -141,7 +141,7 @@
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -187,7 +187,7 @@
     "name": "Roserade",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -233,7 +233,7 @@
     "name": "Grotle",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -257,7 +257,7 @@
     "name": "Torterra",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -304,7 +304,7 @@
     "name": "Kricketune",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -349,7 +349,7 @@
     "name": "Wormadam",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -395,7 +395,7 @@
     "name": "Vespiquen",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -442,7 +442,7 @@
     "name": "Leafeon",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -538,7 +538,7 @@
     "name": "Magmortar",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -585,7 +585,7 @@
     "name": "Magcargo",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -630,7 +630,7 @@
     "name": "Monferno",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -652,7 +652,7 @@
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -721,7 +721,7 @@
     "name": "Piloswine",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -750,7 +750,7 @@
     "name": "Mamoswine",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -830,7 +830,7 @@
     "name": "Prinplup",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -853,7 +853,7 @@
     "name": "Empoleon",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -899,7 +899,7 @@
     "name": "Floatzel",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -944,7 +944,7 @@
     "name": "Gastrodon",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -990,7 +990,7 @@
     "name": "Lumineon",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1034,7 +1034,7 @@
     "name": "Abomasnow",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1059,7 +1059,7 @@
     "name": "Glaceon",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1204,7 +1204,7 @@
     "name": "Magneton",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1227,7 +1227,7 @@
     "name": "Magnezone",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1273,7 +1273,7 @@
     "name": "Electrode",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1317,7 +1317,7 @@
     "name": "Electivire",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1362,7 +1362,7 @@
     "name": "Luxio",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1385,7 +1385,7 @@
     "name": "Luxray",
     "element": "Lightning",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1476,7 +1476,7 @@
     "name": "Togetic",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1498,7 +1498,7 @@
     "name": "Togekiss",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1543,7 +1543,7 @@
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1588,7 +1588,7 @@
     "name": "Kirlia",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1632,7 +1632,7 @@
     "name": "Dusclops",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1656,7 +1656,7 @@
     "name": "Dusknoir",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1707,7 +1707,7 @@
     "name": "Drifblim",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1873,7 +1873,7 @@
     "name": "Rhydon",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1897,7 +1897,7 @@
     "name": "Rhyperior",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -1944,7 +1944,7 @@
     "name": "Gliscor",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2042,7 +2042,7 @@
     "name": "Cranidos",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2064,7 +2064,7 @@
     "name": "Rampardos",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2086,7 +2086,7 @@
     "name": "Wormadam",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2132,7 +2132,7 @@
     "name": "Lucario",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2184,7 +2184,7 @@
     "name": "Hippowdon",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2209,7 +2209,7 @@
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2254,7 +2254,7 @@
     "name": "Honchkrow",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2299,7 +2299,7 @@
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2343,7 +2343,7 @@
     "name": "Mightyena",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2388,7 +2388,7 @@
     "name": "Skuntank",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2456,7 +2456,7 @@
     "name": "Drapion",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2503,7 +2503,7 @@
     "name": "Toxicroak",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2625,7 +2625,7 @@
     "name": "Shieldon",
     "element": "Metal",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2648,7 +2648,7 @@
     "name": "Bastiodon",
     "element": "Metal",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2677,7 +2677,7 @@
     "name": "Wormadam",
     "element": "Metal",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2723,7 +2723,7 @@
     "name": "Bronzong",
     "element": "Metal",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2747,7 +2747,7 @@
     "name": "Probopass",
     "element": "Metal",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2852,7 +2852,7 @@
     "name": "Gabite",
     "element": "Dragon",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2875,7 +2875,7 @@
     "name": "Garchomp",
     "element": "Dragon",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2927,7 +2927,7 @@
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -2996,7 +2996,7 @@
     "name": "Porygon2",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3018,7 +3018,7 @@
     "name": "Porygon",
     "element": "Z",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3064,7 +3064,7 @@
     "name": "Ambipom",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3108,7 +3108,7 @@
     "name": "Staravia",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3131,7 +3131,7 @@
     "name": "Staraptor",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3178,7 +3178,7 @@
     "name": "Bibarel",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3223,7 +3223,7 @@
     "name": "Lopunny",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3267,7 +3267,7 @@
     "name": "Purugly",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3517,7 +3517,7 @@
     "name": "Tangrowth",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3616,7 +3616,7 @@
     "name": "Mamoswine",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3646,7 +3646,7 @@
     "name": "Gastrodon",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3834,7 +3834,7 @@
     "name": "Rhyperior",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3859,7 +3859,7 @@
     "name": "Lucario",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -3980,7 +3980,7 @@
     "name": "Garchomp",
     "element": "Dragon",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4008,7 +4008,7 @@
     "name": "Staraptor",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4102,7 +4102,7 @@
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4126,7 +4126,7 @@
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4205,7 +4205,7 @@
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4228,7 +4228,7 @@
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4251,7 +4251,7 @@
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4336,7 +4336,7 @@
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4439,7 +4439,7 @@
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4463,7 +4463,7 @@
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4509,7 +4509,7 @@
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4532,7 +4532,7 @@
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
-    "subtype": "Stage 2",
+    "subtype": "Stage2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4555,7 +4555,7 @@
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
@@ -4606,7 +4606,7 @@
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
-    "subtype": "Stage 1",
+    "subtype": "Stage1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "attacks": [
